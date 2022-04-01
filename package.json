@@ -1,0 +1,24 @@
+{
+  "name": "openclassrooms",
+  "version": "1.0.0",
+  "description": "Projet fil rouge OpenClassrooms Algo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxiim3/OpeClassRooms-Algo.git"
+  },
+  "keywords": [
+    "openclassrooms",
+    "javascript",
+    "algorithms"
+  ],
+  "author": "Maxiim3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxiim3/OpeClassRooms-Algo/issues"
+  },
+  "homepage": "https://github.com/maxiim3/OpeClassRooms-Algo#readme"
+}
